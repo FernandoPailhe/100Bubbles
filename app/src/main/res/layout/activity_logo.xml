@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back_repeat"
+    android:id="@+id/logoActivity"
+    tools:context=".LogoActivity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="0dp"
+        android:layout_marginTop="0dp"
+        android:adjustViewBounds="true"
+        android:alpha="1"
+        android:scaleType="fitXY"
+        android:src="@drawable/gradient4" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:foregroundGravity="center"
+        android:alpha="1"
+        android:src="@drawable/splash_screen" />
+
+    <ImageView
+        android:id="@+id/animSelec"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:alpha="0"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.90"
+        app:srcCompat="@drawable/avd_anim_loading">
+
+    </ImageView>
+
+    <LinearLayout
+        android:id="@+id/singInMenu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="70dp"
+        android:layout_marginBottom="397dp"
+        android:alpha="1"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toTopOf="@+id/animSelec"
+        app:layout_constraintEnd_toEndOf="@id/logoActivity"
+        app:layout_constraintStart_toStartOf="@id/logoActivity"
+        app:layout_constraintTop_toTopOf="parent">
+
+
+        <TextView
+            android:id="@+id/anonimousButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/digital7"
+            android:onClick="playAnonymous"
+            android:text="@string/play_not_logging"
+            android:textAlignment="center"
+            android:textColor="#EAC5C5"
+            android:textSize="20sp" />
+
+
+    </LinearLayout>
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

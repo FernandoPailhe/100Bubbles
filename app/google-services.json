@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "48715007437",
+    "firebase_url": "https://bubbles-34272693.firebaseio.com",
+    "project_id": "bubbles-34272693",
+    "storage_bucket": "bubbles-34272693.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48715007437:android:fd745866586d259ae4b084",
+        "android_client_info": {
+          "package_name": "com.example.hundred"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48715007437-m5qs5k8iekcu5u7bv72leobj8qs7i4qv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLsZxoNvaOgUJiA8hMR9EdyAt5ivgGsU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48715007437-m5qs5k8iekcu5u7bv72leobj8qs7i4qv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

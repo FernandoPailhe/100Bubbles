@@ -1,0 +1,68 @@
+<animated-vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt">
+    <aapt:attr name="android:drawable">
+        <vector
+            android:name="vector"
+            android:width="50dp"
+            android:height="50dp"
+            android:viewportWidth="376"
+            android:viewportHeight="376">
+            <path
+                android:name="path_1"
+                android:pathData="M 2.7 1.1 C 106 1.1 189.7 84.8 189.7 188 C 189.7 291.2 106 374.9 2.7 374.9"
+                android:fillAlpha="0"
+                android:strokeColor="#7ab4ca"
+                android:strokeAlpha="0"
+                android:strokeWidth="1"
+                android:strokeMiterLimit="10"/>
+        </vector>
+
+    </aapt:attr>
+    <target android:name="path_1">
+        <aapt:attr name="android:animation">
+            <set>
+                <objectAnimator
+                    android:propertyName="pathData"
+                    android:startOffset="3000"
+                    android:duration="4000"
+                    android:valueFrom="M 2.7 1.1 C 106 1.1 189.7 84.8 189.7 188 C 189.7 291.2 106 374.9 2.7 374.9"
+                    android:valueTo="M 263.6 60.1 C 300.133 80.8 336.667 125.5 376 187.2 C 336.767 249.967 300.333 255.733 263.9 315.5"
+                    android:valueType="pathType"
+                    android:repeatMode="restart"
+                    android:repeatCount="infinite"
+                    android:interpolator="@android:anim/accelerate_decelerate_interpolator"/>
+                <objectAnimator
+                    android:propertyName="fillColor"
+                    android:startOffset="3000"
+                    android:duration="4000"
+                    android:valueFrom="#7ab4ca"
+                    android:valueTo="#ffffff"
+                    android:valueType="colorType"
+                    android:repeatMode="restart"
+                    android:repeatCount="infinite"
+                    android:interpolator="@android:anim/accelerate_decelerate_interpolator"/>
+                <objectAnimator
+                    android:propertyName="strokeAlpha"
+                    android:startOffset="3000"
+                    android:duration="4000"
+                    android:valueFrom="0"
+                    android:valueTo="0.7"
+                    android:valueType="floatType"
+                    android:repeatMode="restart"
+                    android:repeatCount="infinite"
+                    android:interpolator="@android:interpolator/linear_out_slow_in"/>
+                <objectAnimator
+                    android:propertyName="fillAlpha"
+                    android:startOffset="3000"
+                    android:duration="4000"
+                    android:valueFrom="0"
+                    android:valueTo="0.4"
+                    android:valueType="floatType"
+                    android:repeatMode="restart"
+                    android:repeatCount="infinite"
+                    android:interpolator="@android:interpolator/linear_out_slow_in"/>
+            </set>
+        </aapt:attr>
+    </target>
+</animated-vector>

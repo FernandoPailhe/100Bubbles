@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="not_log">Jugando sin iniciar sesión</string>
+    <string name="not_log_leaderboard">No disponible "\n" sin iniciar sesión</string>
+    <string name="logging">Iniciando sesión...</string>
+    <string name="welcome">Bienvenido</string>
+    <string name="logged_as">Iniciando sesión como</string>
+    <string name="failure_log">Falló la conexion, no estas logueado</string>
+    <string name="play_not_logging">Jugar sin iniciar sesión</string>
+    <string name="rules">Reglas</string>
+    <string name="goal">Escala hasta la burbuja 100</string>
+    <string name="goal2">...y al infinito y más alla!</string>
+    <string name="level_up">¡Has subido de nivel!</string>
+    <string name="tap">toca la burbuja para mover</string>
+    <string name="swipe">también puedes deslizar para moverte</string>
+    <string name="can_next">Puedes mover al siguiente numero</string>
+    <string name="can_previos">Puedes mover al numero anterior</string>
+    <string name="never_can">Nunca puedes</string>
+    <string name="never_can1">- ni saltar de a 2 o más numeros</string>
+    <string name="never_can2">- mover al mismo numero en el que estas</string>
+    <string name="lose">Pierdes cuando no hay movimientos posibles</string>
+    <string name="special_moves">Toma los bonus para transformar el mapa "\n" y abrirte camino hacia arriba</string>
+    <string name="bonus_menu">Aqui arriba puedes ver "\n" cuantos bonus tienes para usar</string>
+    <string name="dont_show">No mostrar más</string>
+    <string name="where_use">Solo puedes transformar las 2 filas de arriba "\n" Las dos filas de abajo están bloqueadas </string>
+    <string name="bonus_swipe"> Usa el bonus que acabas de agarrar "\n" y mueve la fila de burbujas "\n" a cualquiera de sus lados</string>
+    <string name="bonus_swipe2"> Mueve la fila a cualquiera de sus lados</string>
+    <string name="bonus_plus">Sube o baja el valor de una burbuja</string>
+    <string name="bonus_exchange_0">Selecciona dos burbujas para intercambiar</string>
+    <string name="bonus_exchange_1">Toca sobre una burbuja para seleccionar</string>
+    <string name="bonus_exchange_2">Luego elige donde quieras moverla</string>
+    <string name="bonus_exchange_3">Las burbujas se intercambiaran</string>
+    <string name="great">Genial! "\n" Ahora tienes liberado el camino "\n" sube lo más alto que puedas</string>
+    <string name="swipe_right">desiliza a la derecha</string>
+    <string name="swipe_left">desiliza a la izquierda</string>
+    <string name="swipe_up">desiliza hacia arriba</string>
+    <string name="advice1">Cuando trasladas una fila completa "\n" desaparecen los bonus de esa fila</string>
+    <string name="advice2">Cuando cambias el numero de una burbuja "\n" los bonus se mantienen en su burbuja</string>
+    <string name="go">Go go go!</string>
+    <string name="or"> o </string>
+    <string name="attention">¡Ojo!"\n" Si mueves a las siguientes burbujas "\n" luego no tendrás movimientos posibles "\n" y perderás</string>
+    <string name="move_the_row">para mover la fila desbloqueada</string>
+    <string name="level">nivel</string>
+    <string name="restart">¿reiniciar?</string>
+    <string name="yes">si</string>
+    <string name="no">no</string>
+    <string name="new_high_score">nuevo record</string>
+    <string name="this_game">partida actual</string>
+    <string name="unlock_credits">recoger</string>
+    <string name="spend_credits">costo</string>
+    <string name="unblock_bubbles">fila desbloqueada</string>
+    <string name="block_bubbles">fila bloqueada</string>
+    <string name="tip0">La primer parte parece muy fácil?"\n"Sólo si la juegas con inteligencia"\n"podrás llegar a 100</string>
+    <string name="tip1">Cuando cierras el juego"\n"tu partida se guarda automáticamente</string>
+    <string name="tip2">Mientras juegas ganarás burbujas de oro"\n"estas se desbloquean al reiniciar la partida</string>
+    <string name="tip3">Intenta subir numeros consecutivos"\n"con el combo multiplicas los bonus que agarras</string>
+    <string name="tip4">Controla la ansiedad y llegarás muy lejos</string>
+    <string name="tip5">Cada bonus tiene su fuerte y su debilidad"\n"combinarlos es clave</string>
+    <string name="tip6">Acumula oro"\n"podrás comprar vidas cuando hayas perdido</string>
+    <string name="tip7">La búrbuja comodín no tiene valor"\n"puedes llegar a ella desde cualquier número"\n"y luego moverte hacia cualquier otro número</string>
+    <string name="tip8">La burbuja bomba"\n"explota todas las burbujas de su columna</string>
+    <string name="tip9">Cuanto más alto estes"\n"las burbujas especiales te darán más bonus</string>
+    <string name="tip10">Mantenerse en las columnas del medio"\n"te ayudará a siempre tener más opciones</string>
+
+
+</resources>

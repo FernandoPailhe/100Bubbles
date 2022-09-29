@@ -1,0 +1,68 @@
+<resources>
+
+    <string name="play_not_logging">Play without logging in</string>
+    <string name="not_log">You are not logged in</string>
+    <string name="not_log_leaderboard">Not available "\n" without logging in</string>
+    <string name="logging">Logging...</string>
+    <string name="welcome">Welcome</string>
+    <string name="logged_as">Logged as</string>
+    <string name="failure_log">Conection Fail. You are not logged in</string>
+    <string name="rules">Rules</string>
+    <string name="tap">tap the bubble to move</string>
+    <string name="swipe">you can also swipe to move</string>
+    <string name="can_next">You can move to next number</string>
+    <string name="can_previos">You can move to previous number</string>
+    <string name="never_can">But you can never</string>
+    <string name="dont_show">Don´t show again</string>
+    <string name="never_can1">- neither jump from 2 or more numbers</string>
+    <string name="never_can2">- move to the same number</string>
+    <string name="lose">You lose when there are no possible moves</string>
+    <string name="special_moves">Pick up special moves to transform the map "\n" and make your way up</string>
+    <string name="where_use">You can only transform the 2 rows above "\n" The bottom two rows are locked </string>
+    <string name="bonus_menu">Above you can see how many "\n" special moves you have to use</string>
+    <string name="bonus_swipe"> Use the special moves you just grabbed "\n" and move the row of bubbles to either side</string>
+    <string name="bonus_swipe2"> Move the row of bubbles to either side</string>
+    <string name="bonus_plus">Raise or lower the value of a bubble</string>
+    <string name="bonus_exchange_0">Select two bubbles to swap</string>
+    <string name="bonus_exchange_1">Tap on a bubble to select</string>
+    <string name="bonus_exchange_2">Then choose where to move it</string>
+    <string name="bonus_exchange_3">The selected bubbles will be swapped</string>
+    <string name="attention">Attention! "\n" If you move to the next bubbles "\n" then you will have no possible movements "\n" and you will lose </string>
+    <string name="great">Great! "\n" Now you have freed the way "\n" Climb as high as you can</string>
+    <string name="tip11">Try to upload consecutive numbers "\n" to get more bonuses and scores</string>
+    <string name="advice1">When you move an entire row "\ n" the bonuses of that row disappear</string>
+    <string name="advice2">When you change the number of a bubble "\ n" the bonuses remain in its bubble</string>
+    <string name="go">Go go go!</string>
+    <string name="swipe_right">swipe right</string>
+    <string name="swipe_left">swipe left</string>
+    <string name="swipe_up">swipe up</string>
+    <string name="or"> or </string>
+    <string name="move_the_row">to move the unlocked row</string>
+    <string name="level">Level</string>
+    <string name="unlock_credits">collect</string>
+    <string name="spend_credits">cost</string>
+    <string name="restart">restart?</string>
+    <string name="level_up">You level up!</string>
+    <string name="goal">Climb up to bubble 100</string>
+    <string name="goal2">...and to infinity and beyond!</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="new_high_score">new high score</string>
+    <string name="this_game">this game</string>
+    <string name="unblock_bubbles">row unlocked</string>
+    <string name="block_bubbles">row locked</string>
+    <string name="survival" translatable="false">Survival Mode</string>
+    <string name="chill" translatable="false">Chill Mode ♡</string>
+    <string name="tip0">Easy piece Right? "\n"you will reach 100 only if you play strategically</string>
+    <string name="tip1">If you close the app "\n" your game is automatically saved</string>
+    <string name="tip2">While you play you will earn golden bubbles"\n"You can use them when you restart the game.</string>
+    <string name="tip3">Try to raise consecutive numbers "\n" with the combo you multiply the bonuses you get</string>
+    <string name="tip4">Dont be anxious, and you will go very far</string>
+    <string name="tip5">Each bonus has its strength and its weakness "\n" combining them wisely is the key for winning</string>
+    <string name="tip6">With the golden bubbles you earn "\n"can buy lives if you lost</string>
+    <string name="tip7">The wildcard bubble has no value "\n" you can reach it from any number "\n" and then move to any other number</string>
+    <string name="tip8">The bubble bomb "\n" explodes all the bubbles in its column</string>
+    <string name="tip9">The higher you are "\n" the special bubbles will give you more bonuses</string>
+    <string name="tip10">Staying in the middle columns"\n"it will give you more options.</string>
+
+</resources>
