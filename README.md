@@ -1,7 +1,7 @@
 ![portada](https://user-images.githubusercontent.com/100050838/192935417-6c347ea7-660b-4d34-b9f4-1b40ca7b59fb.png)
 
 Juego de estrategia desarrollado en Java. Mi primer aplicación Android. Publicada en el Play Store en Septiembre de 2020. 
-Luego de haber realizado esta aplicación comencé a estudiar arquitectura mobile y entendí que el codigo y la estructura de este proyecto están mal por muchos motivos. Por ello es importante aclarar que este repositorio no me representa hoy en día en cuanto a habilidades y conocimientos técnicos. Por otro lado, si creo que sigue representando mi actitud ante los desafios y proactividad para llevar adelante un proyecto.
+Luego de haber realizado esta aplicación comencé a estudiar arquitectura mobile y entendí que el código y la estructura de este proyecto están mal por muchos motivos. Por ello es importante aclarar que este repositorio no me representa hoy en día en cuanto a habilidades y conocimientos técnicos. Por otro lado, si creo que sigue representando mi actitud ante los desafíos y proactividad para llevar adelante un proyecto.
 Empecé a desarrollar este juego sabiendo apenas algunos fundamentos lógicos de programación y absolutamente nada de Android y Java. Fui aprendiendo de forma autodidacta por internet, simplemente googleando cada funcionalidad que se me ocurría podía llegar a mejorar el juego. Así, la primer versión fue un juego que se jugaba en la consola del IDE y la final está que se pueden descargar del app store.
 
 Un Gameplay para que puedas darle un vistazo: https://youtu.be/C7bkXXYcHVg
